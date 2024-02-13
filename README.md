@@ -1,5 +1,5 @@
 # Joenix
-My own custom setup for Cinnamon Desktop Environment on NixOS
+My own custom setup for NixOS
 *****************Overview*****************
 Config: any configuration files I need
 Scripts: scripts to setup a new install
@@ -8,6 +8,7 @@ Scripts: scripts to setup a new install
 - thunderbird
 - neofetch
 - discord
+- TLP
 - Flatpak (Flathub)
   - Google Chrome
   - TLP-UI
